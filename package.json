@@ -1,0 +1,22 @@
+{
+  "name": "@jonrar/infinity-modules",
+  "version": "1.0.0",
+  "description": "Styling library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-Robert/InfinityModules.git"
+  },
+  "keywords": [
+    "infinitymodules"
+  ],
+  "author": "Eva, Robert & Ulfur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jon-Robert/InfinityModules/issues"
+  },
+  "homepage": "https://github.com/Jon-Robert/InfinityModules#readme"
+}
