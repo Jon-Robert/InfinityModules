@@ -1,5 +1,5 @@
 {
-  "name": "@jonrar/infinity-modules",
+  "name": "jonrar-infinity-modules",
   "version": "1.0.0",
   "description": "Styling library",
   "main": "index.js",
